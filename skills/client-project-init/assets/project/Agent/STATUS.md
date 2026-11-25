@@ -22,6 +22,9 @@
 
 ## Материалы
 - Паспорт: Agent/CLIENT.md.
+- Аудитория: Agent/AUDIENCE.md.
+- Реклама и запуск: Agent/ADVERTISING.md.
+- Аналитика и результаты: Agent/ANALYTICS.md.
 - Решения: Agent/DECISIONS.md.
 - Фактические изменения: Agent/CHANGELOG.md.
 - Эксперименты: Agent/EXPERIMENTS.md.
