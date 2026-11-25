@@ -1,0 +1,4 @@
+interface:
+  display_name: "Шаблон для Яндекс Директ"
+  short_description: "Создать Agent и заполнить базу знаний клиента"
+  default_prompt: "Используй $client-project-init: создай файлы проекта из моего шаблона для Яндекс Директ и начни их заполнение."

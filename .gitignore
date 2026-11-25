@@ -1,0 +1,19 @@
+# Local credentials and system files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+Thumbs.db
+.DS_Store
+
+# Local scratch files and backups; not the Agent/archive template path
+/work/
+/tmp/
+/backups/
+*.bak
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
